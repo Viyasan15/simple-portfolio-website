@@ -1,6 +1,6 @@
 # My Portfolio website
 
-Welcome to my port o website! This project is a simple two-page site that includes a homepage and a contact page. It was created using the and css to provide a clean and straightforward user experience.
+Welcome to my portfolio website! This project is a simple two-page site that includes a homepage and a contact page. It was created using the and css to provide a clean and straightforward user experience.
 
 ## Pages
 
